@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/putdotio/prettier-config/issues"
   },
-  "homepage": "https://github.com/putdotio/prettier-config#readme"
+  "homepage": "https://github.com/putdotio/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
