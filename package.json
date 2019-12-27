@@ -1,0 +1,17 @@
+{
+  "name": "@putdotio/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier config for JavaScript projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putdotio/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/putdotio/prettier-config/issues"
+  },
+  "homepage": "https://github.com/putdotio/prettier-config#readme"
+}
