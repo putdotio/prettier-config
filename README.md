@@ -1,19 +1,34 @@
-# `@putdotio/prettier-config`
+<div align="center">
+  <p>
+    <img src="https://static.put.io/images/putio-boncuk.png" width="72">
+  </p>
 
-Shared prettier config for JavaScript projects
+  <h1>prettier-config</h1>
 
-**Usage**
+  <p>Shared prettier config for put.io's JavaScript projects.</p>
+
+  <p>
+    <img src="https://img.shields.io/npm/v/@putdotio/prettier-config" alt="npm (scoped)">
+    <img src="https://img.shields.io/github/license/putdotio/prettier-config" alt="GitHub">
+  </p>
+</div>
+
+## Installation
 
 ```bash
-$ npm i @putdotio/prettier-config -D
+yarn add prettier @putdotio/prettier-config --dev
 ```
 
-**`package.json`**
+```bash
+npm install prettier @putdotio/prettier-config --save-dev
+```
 
-```jsonc
+## Usage
+
+Add [`@putdotio/prettier-config`](https://github.com/putdotio/prettier-config) to your `package.json`:
+
+```json
 {
-  // ...
   "prettier": "@putdotio/prettier-config"
-  // ...
 }
 ```
