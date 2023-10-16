@@ -1,14 +1,14 @@
 {
   "name": "@putdotio/prettier-config",
   "version": "1.0.0",
-  "description": "Shared prettier config for JavaScript projects",
+  "description": "Shared prettier config for JavaScript projects.",
   "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/putdotio/prettier-config.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "put.io <ui@put.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/putdotio/prettier-config/issues"
@@ -16,5 +16,8 @@
   "homepage": "https://github.com/putdotio/prettier-config#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": ">=2"
   }
 }
