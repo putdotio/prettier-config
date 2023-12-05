@@ -16,11 +16,7 @@
 ## Installation
 
 ```bash
-yarn add prettier @putdotio/prettier-config --dev
-```
-
-```bash
-npm install prettier @putdotio/prettier-config --save-dev
+pnpm add prettier @putdotio/prettier-config -D
 ```
 
 ## Usage

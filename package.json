@@ -2,7 +2,7 @@
   "name": "@putdotio/prettier-config",
   "version": "1.0.0",
   "description": "Shared prettier config for JavaScript projects.",
-  "main": "index.json",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/putdotio/prettier-config.git"
@@ -19,5 +19,8 @@
   },
   "peerDependencies": {
     "prettier": ">=2"
+  },
+  "dependencies": {
+    "@vercel/style-guide": "^5.1.0"
   }
 }
